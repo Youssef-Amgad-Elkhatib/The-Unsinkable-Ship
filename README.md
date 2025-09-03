@@ -1,4 +1,4 @@
-# 🚢 Unsinkable Ensemble: Titanic Survival Prediction  
+# 🚢 The Unsinkable Ship 
 
 ![Titanic](RMS_Titanic_3.jpg)  
 
