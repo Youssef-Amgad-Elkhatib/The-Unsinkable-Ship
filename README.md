@@ -1,8 +1,8 @@
 # 🚢 Unsinkable Ensemble: Titanic Survival Prediction  
 
-![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)  
+![Titanic](RMS_Titanic_3.jpg)  
 
-> A machine learning project built on the **Titanic dataset**, where we use ensemble methods to predict passenger survival.  
+> A machine learning project built on the **Titanic dataset**, where I use ensemble methods to predict passenger survival.  
 > Inspired by the tragedy of the Titanic, this project explores feature engineering, model tuning, and ensembling to create an **unsinkable predictor**.  
 
 ---
@@ -34,14 +34,13 @@
 ---
 
 ## 🧩 Model Architecture  
-Our best-performing ensemble combines:  
+The best-performing ensemble combines:  
 - 🎯 **GradientBoostingClassifier**  
 - ⚡ **XGBClassifier (GPU accelerated)**  
 
 Ensemble type:  
 - 🤝 **Soft Voting Ensemble** → Weighted (GB : XGB = 2:1)  
-- Optionally tested with **Stacking** using Logistic Regression  
-
+ 
 ---
 
 ## 📈 Results  
