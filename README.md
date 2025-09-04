@@ -1,12 +1,15 @@
 # 🚢 The Unsinkable Ship 
 
-![Titanic](RMS_Titanic_3.jpg)  
 
 > A machine learning project built on the **Titanic dataset**, where I use ensemble methods to predict passenger survival.  
 > Inspired by the tragedy of the Titanic, this project explores feature engineering, model tuning, and ensembling to create an **unsinkable predictor**.  
 
 ---
+# 🎥 Video
+ 
+[![The Unsinkable Ship](https://ytcards.demolab.com/?id=M-NlX0MDmQQ&title=The+Unsinkable+Ship&lang=en&timestamp=1756995583&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=300&border_radius=5&duration=157 "The Unsinkable Ship")]([https://www.youtube.com/watch?v=wJ710_eJ5uw](https://www.youtube.com/watch?v=M-NlX0MDmQQ))
 
+---
 ## 📚 Libraries Used  
 - 🐼 **Pandas** – data wrangling  
 - 🔢 **NumPy** – numerical operations  
