@@ -51,7 +51,7 @@ Ensemble type:
 
 ## 📈 Results  
 - ✅ **Cross-Validation Accuracy:** ~0.805 ± 0.034  
-- ✅ **Test Accuracy:** ~0.80  
+- ✅ **Test Accuracy:** ~0.80.5  
 
 ---
 
